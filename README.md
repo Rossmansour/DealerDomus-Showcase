@@ -6,7 +6,26 @@ I run car dealerships. I built DealerDomus to fix the gaps I deal with on the fl
 
 It covers the whole store in eight connected modules that share one login and one set of data.
 
-> 🎥 **Walkthrough video:** *(link)*
+> 🎥 **Walkthrough video:** [DealerDomus-walkthrough.webm](https://github.com/user-attachments/assets/05672069-7d6e-4771-89d4-358f281e40bc)
+[README.md](https://github.com/user-attachments/files/33290795/README.md)<img width="1440" height="900" alt="01-sales-pipeline" src="https://github.com/user-attachments/assets/257a9123-1785-48c5-bb22-4d4d710ec507" />
+<img width="1440" height="900" alt="14-insight-store-overview" src="https://github.com/user-attachments/assets/22621580-7ee7-49e9-9cf6-adb97ddc6ad1" />
+<img width="1440" height="900" alt="05-market-pricing" src="https://github.com/user-attachments/assets/761252d3-4dd9-4322-b53f-f9701dbe725f" />
+<img width="390" height="844" alt="18-phone" src="https://github.com/user-attachments/assets/5f8fad64-9f9e-4c2d-8151-50d48ab5119a" />
+<img width="1440" height="900" alt="15-insight-fi-summary" src="https://github.com/user-attachments/assets/ef1e460c-9219-417f-bc09-7858749db38f" />
+<img width="1440" height="900" alt="10-parts" src="https://github.com/user-attachments/assets/6abba958-f384-480d-86bc-b3caef80a45e" />
+<img width="1440" height="900" alt="06-appraisal" src="https://github.com/user-attachments/assets/3f07ebb2-6177-40ff-b36d-97b8d7358f86" />
+<img width="1440" height="900" alt="13-recon" src="https://github.com/user-attachments/assets/a231c690-8f4d-4501-8782-2666ec7b9e72" />
+<img width="1328" height="347" alt="07-price-to-market" src="https://github.com/user-attachments/assets/4387ce95-332f-499c-840c-2a0a87bfb1b3" />
+<img width="1440" height="900" alt="16-insight-heartbeat" src="https://github.com/user-attachments/assets/c55c0333-8047-4aed-bde5-3e4ae67dd9f1" />
+<img width="1440" height="900" alt="03-deal-desk" src="https://github.com/user-attachments/assets/b5421e4b-ea8a-401d-9880-bde2810067ae" />
+<img width="1440" height="900" alt="09-service-repair-orders" src="https://github.com/user-attachments/assets/c83abf89-05b4-4ff4-bd02-e2eaf6c91404" />
+<img width="1328" height="531" alt="08-price-to-market-graph" src="https://github.com/user-attachments/assets/d8bd6f42-69ac-4774-aa6c-de100d5ee74c" />
+<img width="1440" height="900" alt="02-customer-page" src="https://github.com/user-attachments/assets/1c0bd562-48d1-4d49-8a51-89520baf5e5e" />
+<img width="1440" height="900" alt="11-accounting" src="https://github.com/user-attachments/assets/fb37d7bb-6d11-4bec-a8c8-f6f3ea1061fc" />
+<img width="1440" height="900" alt="04-inventory" src="https://github.com/user-attachments/assets/665c0530-aadd-445c-8dd7-9f540ad7cc27" />
+<img width="1440" height="900" alt="17-dark-mode" src="https://github.com/user-attachments/assets/d532ffba-c498-4395-aeb3-63ac2769ea43" />
+<img width="1440" height="900" alt="12-financial-statement" src="https://github.com/user-attachments/assets/3d72ac26-ea85-4028-b5c3-2d6ee4e9d28a" />
+
 >
 > The source code is private. Screenshots show demo data only, with no real customers. Happy to walk through the code in an interview.
 
