@@ -10,7 +10,7 @@ It covers the whole store in eight connected modules that share one login and on
 >
 > The source code is private. Screenshots show demo data only, with no real customers. Happy to walk through the code in an interview.
 
-![Sales pipeline](screenshots/01-sales-pipeline.png)
+![Sales pipeline](01-sales-pipeline.png)
 
 ---
 
@@ -34,48 +34,48 @@ It covers the whole store in eight connected modules that share one login and on
 ### CRM: one page per customer
 Road to the sale, every call, text, and note, trades, credit app, and deals in one place.
 
-![Customer page](screenshots/02-customer-page.png)
+![Customer page](02-customer-page.png)
 
 ### Desk: deal desking
 Price, products, taxes and fees, and the payment, with every line itemized.
 
-![Deal desk](screenshots/03-deal-desk.png)
+![Deal desk](03-deal-desk.png)
 
 ### Inventory: market pricing
 Each car's % of market, its rank among similar cars nearby, and a suggested price from the store's own rules (target %, aging, gross floor).
 
-![Market pricing](screenshots/05-market-pricing.png)
+![Market pricing](05-market-pricing.png)
 
 ### Appraisals and price to market
 VIN decode, equipment, recon, book values, and an appraisal calculator that works back from the internet price.
 
-![Appraisal](screenshots/06-appraisal.png)
+![Appraisal](06-appraisal.png)
 
 Drag the pin to set the internet price against the market, or switch to a graph of price against miles. Every dot is a real listing you can click.
 
-![Price to market: bar](screenshots/07-price-to-market.png)
-![Price to market: graph](screenshots/08-price-to-market-graph.png)
+![Price to market: bar](07-price-to-market.png)
+![Price to market: graph](08-price-to-market-graph.png)
 
 ### Recon
-![Recon](screenshots/13-recon.png)
+![Recon](13-recon.png)
 
 ### Service and parts
-![Repair orders](screenshots/09-service-repair-orders.png)
-![Parts](screenshots/10-parts.png)
+![Repair orders](09-service-repair-orders.png)
+![Parts](10-parts.png)
 
 ### Accounting: books that post themselves
 Deals, repair orders, and parts post to a double-entry general ledger automatically. Statements by department, month and year to date.
 
-![Accounting overview](screenshots/11-accounting.png)
-![Financial statement](screenshots/12-financial-statement.png)
+![Accounting overview](11-accounting.png)
+![Financial statement](12-financial-statement.png)
 
 ### Insight: the numbers the store runs on
-![Store overview](screenshots/14-insight-store-overview.png)
-![F&I summary](screenshots/15-insight-fi-summary.png)
-![Heartbeat](screenshots/16-insight-heartbeat.png)
+![Store overview](14-insight-store-overview.png)
+![F&I summary](15-insight-fi-summary.png)
+![Heartbeat](16-insight-heartbeat.png)
 
 ### Dark mode and phone
-<img src="screenshots/17-dark-mode.png" width="68%"> <img src="screenshots/18-phone.png" width="22%">
+<img src="17-dark-mode.png" width="68%"> <img src="18-phone.png" width="22%">
 
 ---
 
